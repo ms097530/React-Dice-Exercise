@@ -1,0 +1,28 @@
+.RollDice-dice
+{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+    color: plum;
+    height:300px;    
+}
+
+.RollDice-btn
+{
+    color: white;
+    background-color: black;
+    width: 200px;
+    font-size: 1.5rem;
+    height: 75px;
+    border-radius: 1rem;
+    border: none;
+}
+.RollDice-btn:hover
+{
+    background-color: plum;
+}
+/* .RollDice-btn:disabled
+{
+    cursor: not-allowed;
+} */
